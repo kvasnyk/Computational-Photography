@@ -1,0 +1,8 @@
+D:\UWr\mgr\semestr IV\Computational Photography\Lab2 - solution\Lab2\Lab2_Task1\bin\Debug\Lab2_Task1.exe.config
+D:\UWr\mgr\semestr IV\Computational Photography\Lab2 - solution\Lab2\Lab2_Task1\bin\Debug\Lab2_Task1.exe
+D:\UWr\mgr\semestr IV\Computational Photography\Lab2 - solution\Lab2\Lab2_Task1\bin\Debug\Lab2_Task1.pdb
+D:\UWr\mgr\semestr IV\Computational Photography\Lab2 - solution\Lab2\Lab2_Task1\obj\Debug\Lab2_Task1.csprojResolveAssemblyReference.cache
+D:\UWr\mgr\semestr IV\Computational Photography\Lab2 - solution\Lab2\Lab2_Task1\obj\Debug\Lab2_Task1.exe
+D:\UWr\mgr\semestr IV\Computational Photography\Lab2 - solution\Lab2\Lab2_Task1\obj\Debug\Lab2_Task1.pdb
+D:\UWr\mgr\semestr IV\Computational Photography\Lab2 - solution\Lab2\Lab2_Task1\bin\Debug\Helpers.dll
+D:\UWr\mgr\semestr IV\Computational Photography\Lab2 - solution\Lab2\Lab2_Task1\bin\Debug\Helpers.pdb

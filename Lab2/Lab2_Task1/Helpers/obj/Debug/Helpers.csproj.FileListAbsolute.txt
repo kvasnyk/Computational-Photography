@@ -1,0 +1,5 @@
+D:\UWr\mgr\semestr IV\Computational Photography\Lab2 - solution\Lab2\Helpers\bin\Debug\Helpers.dll
+D:\UWr\mgr\semestr IV\Computational Photography\Lab2 - solution\Lab2\Helpers\bin\Debug\Helpers.pdb
+D:\UWr\mgr\semestr IV\Computational Photography\Lab2 - solution\Lab2\Helpers\obj\Debug\Helpers.dll
+D:\UWr\mgr\semestr IV\Computational Photography\Lab2 - solution\Lab2\Helpers\obj\Debug\Helpers.pdb
+D:\UWr\mgr\semestr IV\Computational Photography\Lab2 - solution\Lab2\Helpers\obj\Debug\Helpers.csprojResolveAssemblyReference.cache
